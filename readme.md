@@ -2,9 +2,9 @@
 "Quick, Draw!" was released as an experimental game to educate the public in a playful way about how AI works. The game prompts users to draw an image depicting a certain category, such as ”banana,” “table,” etc. Our objective is to recognise hand drawn doodles.
 
 ## Contributors
-24M0750 : Ritesh Bhadane
-24M0757 : Puneet Garg
-24M0776 : Shreyas Namjoshi
+24M0750 : Ritesh Bhadane  
+24M0757 : Puneet Garg  
+24M0776 : Shreyas Namjoshi  
 
 ## How to run code
 Install dependencies:
@@ -48,7 +48,21 @@ Models Resnext101 and Resnet50 didn't training completely because of unavailabil
 
 ## Logs of models
 Screenshots of logs for different models are:
-* sad
-* adas
+* CNN
+
+![CNN model logs](https://github.com/shreyas261/Doodle-Recognition/blob/master/logs/CNN.PNG?raw=true)
+
+* Resnet18
+![Resnet18 1](https://github.com/shreyas261/Doodle-Recognition/blob/master/logs/resnet18-320.PNG?raw=true)
+![Resnet18 contd](https://github.com/shreyas261/Doodle-Recognition/blob/master/logs/Resnet18cont.PNG?raw=true)
+
+* Resnet50
+![Resnet50 1](https://github.com/shreyas261/Doodle-Recognition/blob/master/logs/Resnet50.png?raw=true)
+![Resnet50 contd](https://github.com/shreyas261/Doodle-Recognition/blob/master/logs/Resnet501.png?raw=true)
+
+* Resnext101
+![Resnext101 1](https://github.com/shreyas261/Doodle-Recognition/blob/master/logs/resnext101.PNG?raw=true)
+![Resnext101 contd](https://github.com/shreyas261/Doodle-Recognition/blob/master/logs/Resnext101_2.PNG?raw=true)
+
 
 
