@@ -1,0 +1,353 @@
+SN,files
+120,The Eiffel Tower.csv
+121,The Great Wall of China.csv
+122,The Mona Lisa.csv
+252,airplane.csv
+133,alarm clock.csv
+0,alarm clock.csv
+134,ambulance.csv
+1,angel.csv
+2,animal migration.csv
+138,ant.csv
+3,anvil.csv
+253,apple.csv
+139,arm.csv
+4,asparagus.csv
+140,axe.csv
+254,backpack.csv
+170,banana.csv
+327,bandage.csv
+5,barn.csv
+329,baseball bat.csv
+328,baseball.csv
+171,basket.csv
+172,basketball.csv
+173,bat.csv
+6,bathtub.csv
+7,beach.csv
+174,bear.csv
+175,beard.csv
+176,bed.csv
+177,bee.csv
+178,belt.csv
+179,bench.csv
+255,bicycle.csv
+8,binoculars.csv
+256,bird.csv
+9,birthday cake.csv
+10,blackberry.csv
+11,blueberry.csv
+257,book.csv
+180,boomerang.csv
+12,bottlecap.csv
+181,bowtie.csv
+182,bracelet.csv
+13,brain.csv
+183,bread.csv
+184,bridge.csv
+14,broccoli.csv
+330,broom.csv
+185,bucket.csv
+15,bulldozer.csv
+186,bus.csv
+16,bush.csv
+187,butterfly.csv
+188,cactus.csv
+258,cake.csv
+331,calculator.csv
+17,calendar.csv
+189,camel.csv
+190,camera.csv
+18,camouflage.csv
+191,campfire.csv
+332,candle.csv
+192,cannon.csv
+19,canoe.csv
+259,car.csv
+193,carrot.csv
+194,castle.csv
+260,cat.csv
+20,ceiling fan.csv
+195,cell phone.csv
+21,cello.csv
+196,chair.csv
+22,chandelier.csv
+23,church.csv
+197,circle.csv
+24,clarinet.csv
+261,clock.csv
+198,cloud.csv
+25,coffee cup.csv
+199,compass.csv
+262,computer.csv
+200,cookie.csv
+26,cooler.csv
+201,couch.csv
+202,cow.csv
+27,crab.csv
+28,crayon.csv
+29,crocodile.csv
+333,crown.csv
+30,cruise ship.csv
+203,cup.csv
+31,diamond.csv
+32,dishwasher.csv
+33,diving board.csv
+263,dog.csv
+34,dolphin.csv
+204,donut.csv
+205,door.csv
+35,dragon.csv
+36,dresser.csv
+37,drill.csv
+38,drums.csv
+39,duck.csv
+206,dumbbell.csv
+207,ear.csv
+40,elbow.csv
+264,elephant.csv
+334,envelope.csv
+208,eraser.csv
+209,eye.csv
+210,eyeglasses.csv
+41,face.csv
+211,fan.csv
+42,feather.csv
+43,fence.csv
+212,finger.csv
+44,fire hydrant.csv
+45,fireplace.csv
+46,firetruck.csv
+265,fish.csv
+47,flamingo.csv
+213,flashlight.csv
+48,flip flops.csv
+49,floor lamp.csv
+266,flower.csv
+50,flying saucer.csv
+214,foot.csv
+267,football.csv
+215,fork.csv
+51,frog.csv
+335,frying pan.csv
+52,garden hose.csv
+53,garden.csv
+268,giraffe.csv
+54,giraffe.csv
+55,goatee.csv
+336,golf club.csv
+269,grapes.csv
+56,grass.csv
+216,guitar.csv
+270,hamburger.csv
+337,hammer.csv
+217,hand.csv
+57,harp.csv
+271,hat.csv
+58,headphones.csv
+59,hedgehog.csv
+218,helicopter.csv
+219,helmet.csv
+220,hexagon.csv
+60,hockey puck.csv
+221,hockey stick.csv
+222,horse.csv
+223,hospital.csv
+224,hot air balloon.csv
+61,hot dog.csv
+62,hot tub.csv
+225,hourglass.csv
+63,house plant.csv
+272,house.csv
+64,hurricane.csv
+273,ice cream.csv
+274,jacket.csv
+65,jail.csv
+66,kangaroo.csv
+275,key.csv
+226,keyboard.csv
+227,knee.csv
+338,ladder.csv
+67,lantern.csv
+228,laptop.csv
+229,leaf.csv
+230,leg.csv
+276,lemon.csv
+339,light bulb.csv
+68,lighthouse.csv
+231,lightning.csv
+232,line.csv
+277,lion.csv
+69,lion.csv
+233,lipstick.csv
+70,lobster.csv
+278,lollipop.csv
+71,mailbox.csv
+340,map.csv
+72,marker.csv
+73,matches.csv
+74,megaphone.csv
+279,mermaid.csv
+280,microphone.csv
+75,microwave.csv
+76,monkey.csv
+234,moon.csv
+77,mosquito.csv
+235,motorbike.csv
+281,mountain.csv
+282,mouse.csv
+236,moustache.csv
+237,mouth.csv
+238,mug.csv
+78,mushroom.csv
+341,nail.csv
+239,necklace.csv
+240,nose.csv
+342,ocean.csv
+241,octagon.csv
+242,octopus.csv
+79,onion.csv
+243,oven.csv
+283,owl.csv
+80,owl.csv
+81,paint can.csv
+343,paintbrush.csv
+344,palm tree.csv
+284,pancake.csv
+82,panda.csv
+244,pants.csv
+83,paper clip.csv
+84,parachute.csv
+85,parrot.csv
+245,passport.csv
+246,peanut.csv
+86,pear.csv
+87,peas.csv
+285,pencil.csv
+286,penguin.csv
+287,piano.csv
+88,pickup truck.csv
+89,picture frame.csv
+90,pig.csv
+247,pillow.csv
+248,pineapple.csv
+345,pizza.csv
+91,pliers.csv
+92,police car.csv
+93,pond.csv
+94,pool.csv
+95,popsicle.csv
+346,postcard.csv
+347,potato.csv
+96,power outlet.csv
+249,purse.csv
+288,rabbit.csv
+97,raccoon.csv
+250,radio.csv
+348,rain.csv
+289,rainbow.csv
+98,rake.csv
+290,remote control.csv
+99,rhinoceros.csv
+251,river.csv
+291,rocket.csv
+292,roller coaster.csv
+135,rollerskates.csv
+141,sailboat.csv
+349,sandcastle.csv
+142,sandwich.csv
+100,saw.csv
+101,saxophone.csv
+143,school bus.csv
+293,scissors.csv
+102,scorpion.csv
+144,screwdriver.csv
+145,sea turtle.csv
+146,see saw.csv
+294,shark.csv
+295,sheep.csv
+296,shoe.csv
+147,shorts.csv
+148,shovel.csv
+103,sink.csv
+136,skateboard.csv
+149,skull.csv
+150,skyscraper.csv
+104,sleeping bag.csv
+297,smiley face.csv
+151,snail.csv
+298,snake.csv
+105,snorkel.csv
+152,snowflake.csv
+299,snowman.csv
+300,soccer ball.csv
+153,sock.csv
+154,speedboat.csv
+155,spider.csv
+301,spoon.csv
+106,spreadsheet.csv
+156,square.csv
+107,squiggle.csv
+108,squirrel.csv
+157,stairs.csv
+302,star.csv
+109,steak.csv
+110,stereo.csv
+111,stethoscope.csv
+112,stitches.csv
+158,stop sign.csv
+113,stove.csv
+159,strawberry.csv
+160,streetlight.csv
+114,string bean.csv
+303,submarine.csv
+304,suitcase.csv
+305,sun.csv
+350,sunglasses.csv
+115,swan.csv
+116,sweater.csv
+117,swing set.csv
+161,sword.csv
+168,t-shirt.csv
+306,table.csv
+118,teapot.csv
+351,teddy bear.csv
+307,teddy-bear.csv
+308,telephone.csv
+309,television.csv
+162,tennis racquet.csv
+119,tent.csv
+310,tiger.csv
+123,toaster.csv
+124,toe.csv
+125,toilet.csv
+311,tooth.csv
+163,toothbrush.csv
+164,toothpaste.csv
+126,tornado.csv
+127,tractor.csv
+165,traffic light.csv
+166,train.csv
+312,tree.csv
+167,triangle.csv
+128,trombone.csv
+313,truck.csv
+314,trumpet.csv
+315,turtle.csv
+316,umbrella.csv
+129,underwear.csv
+317,van.csv
+318,vase.csv
+319,violin.csv
+130,washing machine.csv
+320,watermelon.csv
+131,waterslide.csv
+321,whale.csv
+322,wheel.csv
+323,windmill.csv
+132,wine bottle.csv
+137,wine glass.csv
+324,wristwatch.csv
+325,yoga.csv
+326,zebra.csv
+169,zigzag.csv
